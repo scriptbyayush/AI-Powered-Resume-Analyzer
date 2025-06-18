@@ -442,9 +442,7 @@ export default function Home() {
               <span>Upload Resume</span>
               <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" className="ml-2" viewBox="0 0 24 24"><path d="M12 5v14m7-7H5" /></svg>
             </CTAButton>
-            <SecondaryCTA onClick={() => window.open("/examples/sample_resume.pdf", "_blank")}>
-              <span>See Example</span>
-            </SecondaryCTA>
+           
           </div>
         </motion.div>
         <Instructions />
