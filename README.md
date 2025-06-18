@@ -128,7 +128,8 @@ http://localhost:3000
 
 ## 🖼️ Screenshots
 
-![ResumeAi UI](./codify.png)
+![ResumeAi UI](./resumeImg2.png)
+![ResumeAi UI](./resumeImg1.png)
 
 * Resume Upload UI  
 * Job Description Input  
